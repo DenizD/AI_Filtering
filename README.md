@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/37620489/117891429-2ab20080-b2b7-11eb-
 https://user-images.githubusercontent.com/37620489/117891500-487f6580-b2b7-11eb-9dca-e404bb40b106.mp4
 
 
-# References
 
+# References
 - https://systemerrorwang.github.io/White-box-Cartoonization/ [1]
 - https://arxiv.org/pdf/1706.05587v3.pdf [2]
